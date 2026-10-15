@@ -1,5 +1,4 @@
 import React from 'react'
-import ReactDOM from 'react-[#0A0A0A]'
 import ReactDOM from 'react-dom/client'
 import App from './App.tsx'
 import './index.css'
